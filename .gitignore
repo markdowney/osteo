@@ -2,7 +2,6 @@ temp
 dist
 .DS_Store
 .sass-cache
-**/*.css
 node_modules
 app/styles/main.css
 app/scripts/vendor
