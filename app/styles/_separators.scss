@@ -1,0 +1,14 @@
+.hr-small, .hr {
+    border: none;
+    margin: 20px auto;
+    height: 10px;
+}
+
+.hr-small {
+    width: 140px;
+    background: {
+        image: url('../images/hr-small.png');
+        repeat: no-repeat;
+        position: 50% 50%;
+    }
+}

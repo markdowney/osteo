@@ -4,7 +4,7 @@ define(['marionette','tools/marionette.override'],function(Marionette){
 
     var application = new Marionette.Application();
 
-    application.on('initialize:after', function() {
+    application.on('before:start', function() {
         
     });
 
